@@ -1,4 +1,0 @@
-need to get all specific configs out of here and everything variable based, applies to the other ones as well
-need to get the dockerfile for the image and the resources seperated
-need to look into adding authenticator and provisioner for users
-look into sso options
